@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030821954591",
+    "project_id": "bahrom-primqulo",
+    "storage_bucket": "bahrom-primqulo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030821954591:android:d8080fd6c3e2d4312e412a",
+        "android_client_info": {
+          "package_name": "uz.gita.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaEhxfRUFgvp7OU7w7VE1042DZx93r8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
