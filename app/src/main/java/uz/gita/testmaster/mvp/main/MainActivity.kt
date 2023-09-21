@@ -56,8 +56,6 @@ class MainActivity : AppCompatActivity(), MainContract.View {
 
     override fun shoeResult(currentTestCount: Int, wrongTestCount: Int) {
         clearOldState()
-        //Toast.makeText(this, correctCount + " / " + wrongCount, Toast.LENGTH_SHORT).show();
-        //Toast.makeText(this, correctCount + " / " + wrongCount, Toast.LENGTH_SHORT).show();
         val v = LayoutInflater.from(this).inflate(R.layout.activity_dialog, null)
         val dialog = AlertDialog.Builder(this)
             .setView(v)
